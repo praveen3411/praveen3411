@@ -66,9 +66,6 @@
     <a href="https://twitter.com/ypraveen341">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ypraveen341" />
     </a>
-    <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
-    </a>
     <a title="ypraveen341@gmail.com" href="mailto:ypraveen341@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ypraveen341@gmail.com"/>
     </a>
