@@ -84,3 +84,23 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen3411&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
 <br>
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+<h2 align="left">Github Stats:</h2>
+ <details>
+  <summary><b><samp>📈 My GitHub Stats(Click)</samp></b></summary>
+<br>
+<p align="center"> 
+
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praveen3411&theme=react&hide_border=true&background=000000)
+
+ </p>
+
+![praveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=praveen3411&bg_color=000000&color=5bcedc&line=5bcdec&point=5bcdec&area=true&hide_border=true)
+ 
+</details>
+
+ <br>
+
+![snake svg](https://github.com/praveen3411/jheel05/blob/main/github-contribution-grid-snake.svg)
