@@ -92,8 +92,8 @@
 
 
 <p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/praveen3411/travelocity">
+        <img align="center" src="https://github.com/praveen3411/travelocity" alt="praveen3411" />
     </a>
     <a href="https://github.com/m-sehrawat/Mini-Store">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
