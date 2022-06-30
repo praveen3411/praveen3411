@@ -1,104 +1,166 @@
-# <h1 align="center"> Hello World <img src="./resources/Waving%20Hand.gif" style="max-width:100">👨🏼‍💻<h1>
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Praveen Kumar
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 
-<p align="center">
-<samp> 
-   <!-- <img align="center" src="./resources/My-Tech-Cover-Pinned.png"> -->
-</samp>
-   
-<p align="center">
-<samp> 
-	𝑯𝒆𝒓𝒆 𝒂𝒔 𝒂𝒏 𝒖𝒏𝒅𝒆𝒓𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆, 𝑴𝒐𝒕𝒂𝒔𝒊𝒎 𝒊𝒔 𝒂 𝒉𝒊𝒈𝒉𝒍𝒚 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆, 𝒂𝒎𝒃𝒊𝒕𝒊𝒐𝒖𝒔, 𝒂𝒏𝒅 𝒇𝒐𝒄𝒖𝒔𝒆𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝒔𝒕𝒖𝒅𝒆𝒏𝒕, 𝒘𝒉𝒐 𝒊𝒔 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒄𝒐𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒏𝒋𝒐𝒚𝒔 𝒕𝒐 𝒆𝒙𝒑𝒆𝒓𝒊𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔 𝒂𝒏𝒅 𝒘𝒂𝒏𝒕s 𝒕𝒐 𝒆𝒏𝒉𝒂𝒏𝒄𝒆 𝒉𝒊𝒔 𝒔𝒌𝒊𝒍𝒍𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒇𝒊𝒆𝒍𝒅 𝒐𝒇 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚.
-</samp>
 
-<hr>
-<h3 align="center"> :: My Tech-Stack Includes :: </h3>
 
-<h4 align='center'>{ Programming Languages }</h4>
-<p align='center'>
-  <img src="./resources/java.png" />&nbsp;&nbsp;
-   <img src="./resources/python.png" />&nbsp;&nbsp;
-  <img src="./resources/c.png" />&nbsp;&nbsp; 
-  <img src="./resources/c%2B%2B.png" /> <br> <br>
+<!----------------------------------- About Section ------------------------------------>
+
+<h3>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+</h3>
+
+<h3>
+    <i>- Currently Studying in Masai School To become a Full-Stack-Web-Developer</i>
+</h3>
+<br>
+
+
+
+<!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="left">
+    <a href="https://github.com/m-sehrawat">
+        <img src="https://komarev.com/ghpvc/?username=praveen3411&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen Kumar" />
+    </a>
+    <a href="https://github.com/m-sehrawat?tab=followers">
+        <img src="https://img.shields.io/github/followers/praveen3411?label=Followers&style=social" alt="followers-count">
+    </a>
 </p>
+<br>
 
-<h4 align='center'>< Web Technologies /></h4>
-<p align='center'>
-  <img src="./resources/html-5.png" />&nbsp;&nbsp;
-  <img src="./resources/css-3.png" /><br> <br>
-  <img src="./resources/javascript.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/jquery.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/nodejs.png" />&nbsp;&nbsp;&nbsp; 
+
+
+<!----------------------------------- Tech Stack Section ------------------------------------>
+
+<h2><i>Tech Stack</i></h2>
+
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
+<br>
 
-<h4 align='center'>= Databases =</h4>
-<p align='center'>
-  <img src="./resources/sql.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/pl-sql.png" />&nbsp;&nbsp;&nbsp; 
-  <img src="./resources/mongodb.png" />&nbsp;&nbsp;&nbsp; 
+
+
+<!----------------------------------- Project Section ------------------------------------>
+
+<h2><i>My top projects</i></h2>
+
+
+<p align="left">
+    <a href="https://github.com/m-sehrawat/Nike-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Mini-Store" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Weather-App" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
+    </a>
 </p>
-<hr>
+<br>
 
-<h3 align="center">🔎 Find me around the web 🌎</h3>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <table align="center" width="100%">
-        <tr>
-          <td align="center">
-            <img width="150" height="250" src="./resources/boy.png">
-          </td>
-          <td align="center">
-            <table align="center" width="100%">
-              <tr>
-                <td align="center">
-                  <a href="mailto:makkimotasim@gmail.com"> <img src="./resources/gmail.png"/> </a>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="https://www.linkedin.com/in/motasim-010b0a135/"> <img src="./resources/linkedin.png" /> </a>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="https://twitter.com/_motasim_"> <img src="./resources/twitter.png" /> </a>
-                </td>
-              </tr>
-              <tr>
-                <td align="center">
-                  <a href="https://www.instagram.com/dev.motasim"> <img src="./resources/instagram.png" /> </a>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center">
-      <img width="350" height="250" src="./resources/workspace-gif.gif">
-    </td>
-  </tr>
-</table>
-<hr>
-   
-<h3 align="center">📈 GitHub Statistics 📉</h3><br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=motasimmakki&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motasimmakki&layout=compact&theme=tokyonight" alt="languages" height="50%" width="41.5%"/>
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://linkedin.com/in/m-sehrawat">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    </a>
+    <a href="https://twitter.com/MohitSehrawatt">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
+    </a>
+    <a href="https://mohit-portfolio.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
+    </a>
+    <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+    </a>
 </p>
-   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=motasimmakki&style=plastic&label=PROFILE+VIEWS" alt="motasimmakki" /> </p>
-   
-<p align="center">
-  <img src="https://github.com/motasimmakki/motasimmakki/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<br>
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
+<br>
 
-<p align="center">
-  <img src="./resources/Keep%20Coding.gif" alt="keep-coding"></center>
+
+
+<!----------------------------------- Top Repository Section ------------------------------------>
+
+<h2><i>Top Repositories</i></h2>
+
+
+<p>
+    <a href="https://github.com/m-sehrawat/Nike-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Mini-Store">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Weather-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Translation-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+     <a href="https://github.com/m-sehrawat/Facebook-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Food-Store">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Adidas-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    </a>
+    
 </p>
-
-<hr>
-
-<h5 align='center'>
-  / <> with 🧡 By <a href="https://github.com/motasimmakki">Motasim</a> /
-<h5>
