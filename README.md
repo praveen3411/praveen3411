@@ -60,17 +60,15 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/m-sehrawat">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    <a href="https://www.linkedin.com/in/praveen-yadav-882630169/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-yadav-882630169/" />
     </a>
-    <a href="https://twitter.com/MohitSehrawatt">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
+    <a href="https://twitter.com/ypraveen341">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ypraveen341" />
     </a>
-    <a href="https://mohit-portfolio.vercel.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
-    </a>
-    <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+    
+    <a title="ypraveen341@gmail.com" href="mailto:ypraveen341@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ypraveen341@gmail.com"/>
     </a>
 </p>
 <br>
@@ -82,8 +80,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="praveen3411" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen3411&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
 <br>
 
