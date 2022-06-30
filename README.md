@@ -85,15 +85,6 @@
 </p>
 
 <br>
-<p align="center"> 
-
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praveen3411&theme=react&hide_border=true&background=000000)
-
- </p>
-
 ![praveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=praveen3411&bg_color=000000&color=5bcedc&line=5bcdec&point=5bcdec&area=true&hide_border=true)
- 
-
  <br>
 
-![snake svg](https://github.com/praveen3411/praveen3411/blob/main/github-contribution-grid-snake.svg)
