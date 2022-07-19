@@ -28,6 +28,9 @@
     <a href="https://github.com/praveen3411">
         <img src="https://komarev.com/ghpvc/?username=praveen3411&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen Kumar" />
     </a>
+     <a href="https://github.com/praveen3411?tab=followers">
+        <img src="https://img.shields.io/github/followers/praveen3411?label=Followers&style=social" alt="followers-count">
+    </a>
 </p>
 <br>
 
@@ -81,5 +84,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen3411&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="praveen3411" height="139" />
 </p>
 
-![praveen's github activity graph](https://activity-graph.herokuapp.com/graph?username=praveen3411&bg_color=000000&color=5bcedc&line=5bcdec&point=5bcdec&area=true&hide_border=true)
+
 
