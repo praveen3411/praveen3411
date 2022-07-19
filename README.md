@@ -28,9 +28,6 @@
     <a href="https://github.com/praveen3411">
         <img src="https://komarev.com/ghpvc/?username=praveen3411&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen Kumar" />
     </a>
-    <a href="https://github.com/praveen3411?tab=followers">
-        <img src="https://img.shields.io/github/followers/praveen3411?label=Followers&style=social" alt="followers-count">
-    </a>
 </p>
 <br>
 
