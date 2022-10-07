@@ -50,6 +50,9 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
@@ -73,16 +76,31 @@
 </p>
 <br>
 
-
-
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="praveen3411" height="139" />
-
+<p align="center"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen3411&&theme=highcontrast" alt="praveen3411"/></p>
+<p align="left">
 </p>
+<br>
+
+
+<!----------------------------------- Tech Languages ------------------------------------>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen3411&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="praveen3411" /></p>
+<p align="left">
+</p>
+<br>
+
+<!----------------------------------- Git Status ------------------------------------>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411" alt="praveen3411" /></a> </p>
+<br>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 
 
