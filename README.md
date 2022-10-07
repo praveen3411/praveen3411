@@ -16,7 +16,7 @@
 </h3>
 
 <h3>
-    <i>- Currently Studying in Masai School To become a Full-Stack-Web-Developer</i>
+    <i>- Currently Looking for Full-Stack-Web-Developer role</i>
 </h3>
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
