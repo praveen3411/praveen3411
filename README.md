@@ -21,7 +21,7 @@
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/praveen3411">
         <img src="https://komarev.com/ghpvc/?username=praveen3411&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen Kumar" />
     </a>
@@ -32,8 +32,8 @@
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-<h2><i>Tech Stack</i></h2>
-<p>
+<h2 align="center"><i>Tech Stack</i></h2>
+<p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
@@ -51,8 +51,8 @@
 </p>
 <br>
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<h2><i>Let's Connect</i></h2>
-<p align="left">
+<h2 align="center"><i>Let's Connect</i></h2>
+<p align="center">
     <a href="https://www.linkedin.com/in/praveen-yadav-882630169/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-yadav-882630169/" />
     </a>
@@ -67,19 +67,19 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2 align="center"><i>My GitHub Stats</i></h2>
 <p align="center"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen3411&&theme=highcontrast" alt="praveen3411"/></p>
-<p align="left">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen3411&&theme=highcontrast" alt="praveen3411"/></p>
+<p align="center">
 </p>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen3411&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="praveen3411" /></p>
-<p align="left">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen3411&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="praveen3411" /></p>
+<p align="center">
 </p>
 <br>
 <!----------------------------------- Git Status ------------------------------------>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
 <br>
-<p><a href="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia" alt="praveen3411" /></a></p>
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia" alt="praveen3411" /></a></p>
 <br>
 
 
