@@ -75,11 +75,13 @@
 </p>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
+<h2><i>Tech Languages</i></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen3411&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="praveen3411" /></p>
 <p align="left">
 </p>
 <br>
 <!----------------------------------- Git Status ------------------------------------>
+<h2><i>Status</i></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
 <br>
 <p><a href="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia" alt="praveen3411" /></a></p>
