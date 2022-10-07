@@ -96,9 +96,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411" alt="praveen3411" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia" alt="praveen3411" /></a></p>
 <br>
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 
 
