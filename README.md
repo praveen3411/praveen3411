@@ -15,11 +15,11 @@
     <i>- I'm a Full-Stack-web-Developer skilled in Tech stack and focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
-<h3>
-    <i>- Currently Looking for Full-Stack-Web-Developer role</i>
-</h3>
-<br>
 <!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Web+Developer." /></a>
+</p>
 
 <p align="center">
     <a href="https://github.com/praveen3411">
