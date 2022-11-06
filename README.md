@@ -51,7 +51,7 @@
 </p>
 <br>
 <!----------------------------------- Social Media Links Section ------------------------------------>
-<h2 align="center"><i>Let's Connect</i></h2>
+<h2 align="center"><i>Let's Connect Here</i></h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/praveen-yadav-882630169/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-yadav-882630169/" />
