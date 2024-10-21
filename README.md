@@ -72,7 +72,7 @@
 </p> -->
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen3411&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="praveen3411" /></p>
+<p align="center"><img align="center" src="https://github-readme-staus.vercel.app/api/top-langs?username=praveen3411&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="praveen3411" /></p>
 <p align="center">
 </p>
 <br>
