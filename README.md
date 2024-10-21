@@ -77,7 +77,7 @@
 </p>
 <br>
 <!----------------------------------- Git Status ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
+<p align="center"><img align="center" src="https://github-readme-status.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
 <br>
 <p align="center"><a href="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia" alt="praveen3411"/></a></p>
 <br>
